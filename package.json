@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/Horbunov-Yurii/timer#readme",
   "devDependencies": {
+    "@pnotify/core": "^5.2.0",
+    "@pnotify/mobile": "^5.2.0",
     "parcel": "^2.16.0"
   },
   "dependencies": {
